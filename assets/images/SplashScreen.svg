@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_5">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_5" data-name="iPhone X/XS/11 Pro – 5" clip-path="url(#clip-iPhone_X_XS_11_Pro_5)">
+    <rect width="375" height="812" fill="#fff"/>
+    <g id="Group_8" data-name="Group 8">
+      <g id="Group_6" data-name="Group 6" transform="translate(-210 -241)">
+        <g id="Group_4" data-name="Group 4" transform="translate(268 621.622)">
+          <path id="Union_1" data-name="Union 1" d="M130.184,69.826a16,16,0,0,1-16-16V50.876L5.855,17.266a7.241,7.241,0,0,1-5.1-8.455L1.846,4.569A6.441,6.441,0,0,1,10.229.3L122.176,35.032a15.924,15.924,0,0,1,8.008-2.145h.293a15.936,15.936,0,0,1,7.19,1.7L248.171.3a6.445,6.445,0,0,1,8.387,4.281l1.1,4.249a7.247,7.247,0,0,1-5.1,8.466L146.477,50.213v3.612a16,16,0,0,1-16,16Z" transform="translate(0 4.952)" fill="none" stroke="#7777db" stroke-width="5"/>
+          <rect id="Rectangle_7" data-name="Rectangle 7" width="11" height="26" rx="5.5" transform="translate(124.985 37.649)" fill="#fff" stroke="#7777db" stroke-width="5"/>
+          <path id="Path_6" data-name="Path 6" d="M3.8,0H110.16a3.742,3.742,0,0,1,3.8,3.683h0c0,10.171-17.144,17.557-27.633,17.557L3.8,22.1A3.742,3.742,0,0,1,0,18.417V3.683A3.742,3.742,0,0,1,3.8,0Z" transform="translate(243.808 6.426) rotate(164)" fill="none" stroke="#7777db" stroke-width="5"/>
+          <line id="Line_9" data-name="Line 9" y1="25" x2="78" transform="translate(149.501 0.878)" fill="none" stroke="#7777db" stroke-linecap="round" stroke-width="5"/>
+          <path id="Path_9" data-name="Path 9" d="M3.958,22.1H114.8a3.828,3.828,0,0,0,3.958-3.683h0C118.754,8.245,100.888.86,89.957.86L3.958,0A3.828,3.828,0,0,0,0,3.683V18.417A3.828,3.828,0,0,0,3.958,22.1Z" transform="translate(20.203 -14.858) rotate(16)" fill="none" stroke="#7777db" stroke-width="5"/>
+          <line id="Line_10" data-name="Line 10" x1="83" y1="25" transform="translate(28.501 0.878)" fill="none" stroke="#7777db" stroke-linecap="round" stroke-width="5"/>
+          <path id="Path_8" data-name="Path 8" d="M15.76,8.273V43.686L8.829,34.172.615,43.686S0,41.311,0,2.415Z" transform="translate(90.855 -1.537)" fill="#fff" stroke="#7777db" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(-97.901 -311.423)">
+        <line id="Line_1" data-name="Line 1" y2="20" transform="translate(361.9 609.923)" fill="none" stroke="#7777db" stroke-linecap="round" stroke-width="11"/>
+        <line id="Line_2" data-name="Line 2" y2="115" transform="translate(317.9 561.923)" fill="none" stroke="#7777db" stroke-linecap="round" stroke-width="11"/>
+        <line id="Line_3" data-name="Line 3" y2="60" transform="translate(339.9 589.923)" fill="none" stroke="#7777db" stroke-linecap="round" stroke-width="11"/>
+        <line id="Line_4" data-name="Line 4" y2="90" transform="translate(273.9 574.923)" fill="none" stroke="#7777db" stroke-linecap="round" stroke-width="11"/>
+        <line id="Line_5" data-name="Line 5" x1="0.143" y2="44" transform="translate(295.9 597.923)" fill="none" stroke="#7777db" stroke-linecap="round" stroke-width="11"/>
+        <line id="Line_6" data-name="Line 6" x1="0.429" y2="55" transform="translate(229.9 591.923)" fill="none" stroke="#7777db" stroke-linecap="round" stroke-width="11"/>
+        <line id="Line_7" data-name="Line 7" y2="35" transform="translate(251.9 601.923)" fill="none" stroke="#7777db" stroke-linecap="round" stroke-width="11"/>
+        <line id="Line_8" data-name="Line 8" y2="25" transform="translate(207.9 606.923)" fill="none" stroke="#7777db" stroke-linecap="round" stroke-width="11"/>
+      </g>
+    </g>
+    <text id="Muhaffez_App" data-name="Muhaffez App" transform="translate(67 630)" fill="#7777db" font-size="37" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Muhaffez App</tspan></text>
+  </g>
+</svg>
